@@ -1,6 +1,6 @@
 # Hi, I'm Andrea Botticella! 👋
 
-Welcome to my GitHub profile. I'm passionate about technology and always eager to tackle new challenges.
+Welcome to my GitHub profile. I'm passionate about cybersecurity and always eager to tackle new challenges.
 
 - 🎓 I am a Computer Engineering graduate from *Università degli Studi del Sannio*.
 - 🔐 I'm currently pursuing a Master's degree in Cybersecurity at *Politecnico di Torino*.
