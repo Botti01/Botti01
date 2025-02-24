@@ -21,6 +21,6 @@ Here are some of my projects:
 
 ## Get in Touch
 
-Feel free to reach out if you want to connect or collaborate:
+Feel free to reach out if you want to connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andrea-botticella/)     [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:abotticella01@gmail.com)
