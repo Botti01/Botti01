@@ -21,37 +21,12 @@ Computer Engineer with a strong interest in cybersecurity, security research, an
 
 ## 🚀 Selected Projects
 
-### 🔍 [eBPF CVE Exploitation](https://github.com/Botti01/eBPF-CVE-exploitation)
-
-Security research project focused on the analysis and exploitation of vulnerabilities in the Linux **eBPF verifier**, including vulnerability analysis and proof-of-concept development.
-
-`Linux` `eBPF` `C` `Security Research` `Exploitation`
+- 🔍 [**eBPF CVE Exploitation**](https://github.com/Botti01/eBPF-CVE-exploitation) — Analysis and exploitation of Linux eBPF verifier vulnerabilities, including PoC and exploit development.
+- 🧠 [**SSH Shell Attacks**](https://github.com/Botti01/SSH-Shell-Attacks) — Machine learning analysis of 230,000+ honeypot-captured Unix shell attacks to identify attacker tactics and patterns.
+- ⚙️ [**Secure Timeout System**](https://github.com/Botti01/Secure-Timeout-System-NXPS32K3X8EVB) — QEMU emulation of the NXP S32K3X8EVB board, FreeRTOS porting, and timer subsystem development.
 
 ---
 
-### 🧠 [SSH Shell Attacks](https://github.com/Botti01/SSH-Shell-Attacks)
-
-Academic project analyzing Unix shell attacks collected through honeypots, using **machine learning** to identify patterns and classify attacker behaviour.
-
-`Python` `Machine Learning` `Cybersecurity` `Honeypots`
-
----
-
-### ⚙️ [Secure Timeout System](https://github.com/Botti01/Secure-Timeout-System-NXPS32K3X8EVB)
-
-Academic systems project involving **QEMU emulation** of the NXP S32K3X8EVB board, **FreeRTOS** porting, and the development of timer-related functionalities.
-
-`C` `QEMU` `FreeRTOS` `Embedded Systems`
-
----
-
-### 🕵️ [V.O.I.D. — Forensics Game](https://github.com/Botti01/VOID-Forensics-Game)
-
-Browser-based serious game focused on **memory forensics and incident response**, simulating the investigation of a live ransomware attack.
-
-`Digital Forensics` `Incident Response` `JavaScript` `Cybersecurity`
-
----
 <!--
 ## 🛠️ Technologies
 
