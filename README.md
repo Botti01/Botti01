@@ -43,8 +43,6 @@ Computer Engineer with a strong interest in cybersecurity, security research, an
 
 ---
 -->
----
-
 ## 🏆 Selected Recognition
 
 - 🥇 **1st Place** — IEEE-HKN International Hackathon 2025
@@ -52,6 +50,8 @@ Computer Engineer with a strong interest in cybersecurity, security research, an
 - 🤖 **57th out of 2,000 teams** — Reply AI Agents Challenge 2026
 - 💻 **88th out of 2,000 teams** — Reply Hack The Code Challenge 2025
 - 🎓 Member of the **IEEE-Eta Kappa Nu (IEEE-HKN) Honor Society**
+
+---
 
 ## 📫 Get in Touch
 
