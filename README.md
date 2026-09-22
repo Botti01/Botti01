@@ -43,6 +43,7 @@ Computer Engineer with a strong interest in cybersecurity, security research, an
 
 ---
 -->
+---
 
 ## 🏆 Selected Recognition
 
