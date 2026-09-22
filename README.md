@@ -1,26 +1,89 @@
-# Hi, I'm Andrea Botticella! 👋
+<div align="center">
 
-Welcome to my GitHub profile. I'm passionate about cybersecurity and always eager to tackle new challenges.
+# Hi, I'm Andrea Botticella 👋
 
-- 🎓 I am a Computer Engineering graduate from *Università degli Studi del Sannio*.
-- 🔐 I'm currently pursuing a Master's degree in Cybersecurity at *Politecnico di Torino*.
+### Cybersecurity MSc Student @ Politecnico di Torino
 
+Computer Engineer with a strong interest in cybersecurity, security research, and emerging technologies.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Bachelor's degree in **Computer Engineering** from *Università degli Studi del Sannio*
+- 🔐 Currently completing my Master's degree in **Cybersecurity** at *Politecnico di Torino*
+- 🔬 Currently working on my MSc thesis, exploring the application of **AI and agentic systems to cybersecurity research** at *Huawei*
+- 💻 Interested in building, analyzing, and experimenting with security-oriented systems and technologies
+
+---
+
+## 🚀 Selected Projects
+
+### 🔍 [eBPF CVE Exploitation](https://github.com/Botti01/eBPF-CVE-exploitation)
+
+Security research project focused on the analysis and exploitation of vulnerabilities in the Linux **eBPF verifier**, including vulnerability analysis and proof-of-concept development.
+
+`Linux` `eBPF` `C` `Security Research` `Exploitation`
+
+---
+
+### 🧠 [SSH Shell Attacks](https://github.com/Botti01/SSH-Shell-Attacks)
+
+Academic project analyzing Unix shell attacks collected through honeypots, using **machine learning** to identify patterns and classify attacker behaviour.
+
+`Python` `Machine Learning` `Cybersecurity` `Honeypots`
+
+---
+
+### ⚙️ [Secure Timeout System](https://github.com/Botti01/Secure-Timeout-System-NXPS32K3X8EVB)
+
+Academic systems project involving **QEMU emulation** of the NXP S32K3X8EVB board, **FreeRTOS** porting, and the development of timer-related functionalities.
+
+`C` `QEMU` `FreeRTOS` `Embedded Systems`
+
+---
+
+### 🕵️ [V.O.I.D. — Forensics Game](https://github.com/Botti01/VOID-Forensics-Game)
+
+Browser-based serious game focused on **memory forensics and incident response**, simulating the investigation of a live ransomware attack.
+
+`Digital Forensics` `Incident Response` `JavaScript` `Cybersecurity`
+
+---
 <!--
-## Technologies & Skills
+## 🛠️ Technologies
 
-- **Programming Languages:**
-- **Tools & Frameworks:** 
-- **Interests:**
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+</p>
+
+---
 -->
 
-## Featured Projects
+## 🏆 Selected Recognition
 
-Here are some of my projects:
-- [**Secure-Timeout-System**](https://github.com/Botti01/Secure-Timeout-System-NXPS32K3X8EVB): A project developed for my Computer Architectures and Operating Systems exam. It involves emulating the NXP S32K3X8EVB board using QEMU, porting FreeRTOS, and developing applications to test timer functionalities.
-- [**SSH-Shell-Attacks**](https://github.com/Botti01/SSH-Shell-Attacks): An analysis project from my Machine Learning for Networking course, focusing on classifying patterns in Unix shell attacks captured via honeypots.
+- 🥇 **1st Place** — IEEE-HKN International Hackathon 2025
+- 🥇 **1st Place** — m0leCon 2026 Beginner CTF
+- 🤖 **57th out of 2,000 teams** — Reply AI Agents Challenge 2026
+- 💻 **88th out of 2,000 teams** — Reply Hack The Code Challenge 2025
+- 🎓 Member of the **IEEE-Eta Kappa Nu (IEEE-HKN) Honor Society**
 
-## Get in Touch
+## 📫 Get in Touch
 
-Feel free to reach out if you want to connect:
+I'm always happy to connect and discuss cybersecurity, technology, research, or interesting projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andrea-botticella/)     [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:abotticella01@gmail.com)
+<p align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-botticella/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abotticella01@gmail.com)
+
+</p>
